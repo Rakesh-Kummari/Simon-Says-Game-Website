@@ -2,7 +2,7 @@
 
 PROJECT
 
-I marged only single thml and css and javascript file in single file.
+I marged html and css and javascript file in single file.
 
 #Simon Says Game Website W | HTML5, CSS3, and JavaScript July 2024
 
